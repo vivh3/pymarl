@@ -1,7 +1,3 @@
-```diff
-- Dec 4th - Updated to use SMAC V1. 
-```
-
 # Python MARL framework
 
 PyMARL is [WhiRL](http://whirl.cs.ox.ac.uk)'s framework for deep multi-agent reinforcement learning and includes implementations of:
